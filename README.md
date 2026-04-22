@@ -95,7 +95,7 @@ Artykuł stawia diagnozę o AIDS i chorobie Kuru wyłącznie na podstawie analiz
 
 | Atrybut | Szczegóły |
 | :--- | :--- |
-| **Data weryfikacji** | 22 kwietnia 2026 |
+| **Data weryfikacji** | 21 kwietnia 2026 |
 | **Badane osoby** | Sean Adl-Tabatabai |
 | **Narzędzia** | Cross-referencing, Evening Standard |
 | **Kluczowe ustalenia** | Identyfikacja głównego redaktora. |
