@@ -60,8 +60,40 @@ Uwagę zwraca również skrajny brak transparentności. Prawie każde pole dotyc
 Analiza profilu relacji w narzędziu BuiltWith ujawniła cyfrowy ślad, identyfikator **Google AdSense (CA-PUB-3980300725513096)**. 
 Fakt, że ten sam identyfikator płatności jest przypisany do `The People's Voice`, jak i do portali takich jak `detroitdailynews.com` czy `tipsto.live`, rzuca nowe światło na charakter witryny. Mamy tu do czynienia z modelem **"Pink Slime Journalism"**, czyli zjawiskiem tworzenia dziesiątek stron udających lokalne serwisy informacyjne, które w rzeczywistości są zarządzane centralnie w celu masowego zarabiania na reklamach i manipulowania zasięgami. 
 
+## Krok 3: Analiza źródeł pierwotnych i demaskowanie mechanizmów manipulacji
 
-### Krok 3: Analiza historyczna i demaskowanie mechanizmu rebrandingu
+**Cel:** Weryfikacja autentyczności dowodów przedstawionych przez portal oraz wykazanie sposobu manipulacji dokumentami pochodzącymi z wycieków danych.
+
+| Atrybut | Szczegóły |
+| :--- | :--- |
+| **Data weryfikacji** | 22 kwietnia 2026 |
+| **Badane źródło** | Artykuł TPV o T. Hanksie, Maile Peggy Siegal (2009, 2013) |
+| **Narzędzia** | Analiza merytoryczna dokumentów |
+| **Kluczowe ustalenia** |Nazwisko występuje w kontekście towarzyskim, brak dowodów na przestępstwa. |
+
+#### Dowód wizualny 1: 
+
+<img width="1427" height="710" alt="{9119991F-A788-4826-A3BF-54DDAD3017C7}" src="https://github.com/user-attachments/assets/f2b9648f-0039-4a6b-a9fb-9b2f1c10c111" />
+
+#### Dowód wizualny 2:
+
+<img width="995" height="531" alt="{BE601111-587F-4546-B64B-2363709BCB2B}" src="https://github.com/user-attachments/assets/960ae672-ceaa-4723-8c5c-6515b91274e9" />
+<img width="975" height="699" alt="{914DA0C3-52D0-483F-9879-B894676A03B9}" src="https://github.com/user-attachments/assets/fed2a0aa-15bc-4dd3-8330-442b9cc1dfd8" />
+
+
+### Refleksja Śledcza
+
+Artykuł o Tomie Hanksie to podręcznikowy przykład manipulacji. Autor artykułu bazuje na autentycznych dokumentach z wycieków (maile Peggy Siegal), wiedząc, że sam fakt ich istnienia uwiarygodni kłamstwo. Po analizie merytorycznej treści maili odkryłam jednak rozbieżności:
+Źródła informacji (korespodencje mailowe) podane przez autora artykułu, nie potwierdzają informacji w nim przedstawionych. 
+Mail z 2009 r. Wspomina o wspólnym jachcie celebrytów. TPV interpretuje to jako "dowód na kanibalistyczne uczty" W tekście źródłowym brak jakiejkolwiek wzmianki o przestępstwach – to zwykła korespondencja towarzyska. 
+Mail z 2013 r. Agentka przesyła gratulacje za rolę Walta Disneya. TPV wyciąga z tego wniosek o "śmiertelnej chorobie Kuru" (wynikającej z kanibalizmu), mimo że w mailu nie ma ani słowa o stanie zdrowia aktora.
+Artykuł stawia diagnozę o AIDS i chorobie Kuru wyłącznie na podstawie analizy zdjęć aktora, ignorując publicznie znane fakty o jego walce z cukrzycą typu 2. 
+
+### Krok 4: Analiza profilu redakcyjnego
+
+
+
+### Krok 5: Analiza historyczna i demaskowanie mechanizmu rebrandingu
 
 **Cel:** Udokumentowanie ewolucji portalu oraz wykazanie bezpośredniej ciągłości między thepeoplesvoice.tv a podmiotami wcześniej zbanowanymi za szerzenie dezinformacji.
 
@@ -83,7 +115,7 @@ Fakt, że ten sam identyfikator płatności jest przypisany do `The People's Voi
 
 
 ### Refleksja śledcza
-Analiza archiwalnych wersji witryny przy użyciu Wayback Machine pozwoliła na ostateczne powiązanie badanego portalu z jego przeszłością. Najważniejszym odkryciem w tej fazie jest stopka strony `yournewswire.com` z **marca 2017 roku**. Widnieje w niej zapis: **"Copyright © 2017 The People’s Voice, Inc."**. Dowodzi to, że obecna nazwa portalu nie jest nowym bytem, lecz nazwą spółki matki, która zarządzała operacją już 7 lat temu.
+Analiza archiwalnych wersji witryny przy użyciu Wayback Machine pozwoliła na ostateczne powiązanie badanego portalu z jego przeszłością. Najważniejszym odkryciem w tej fazie jest stopka strony `yournewswire.com` z **marca 2017 roku**. Widnieje w niej zapis: "The People’s Voice, Inc.". Dowodzi to, że obecna nazwa portalu nie jest nowym bytem, lecz nazwą spółki, która zarządzała operacją już 9 lat temu.
 
 Gdy portal *Your News Wire* stał się zbyt rozpoznawalny dla organizacji fact-checkingowych i zaczął tracić zasięgi przez bany na Facebooku, właściciele (Sean Adl-Tabatabai i Baxter Dmitry) dokonali "ucieczki domenowej". Najpierw przenieśli treści na `newspunch.com` (co widać na screenach z 2020 r.), a ostatecznie na `thepeoplesvoice.tv`.
 
