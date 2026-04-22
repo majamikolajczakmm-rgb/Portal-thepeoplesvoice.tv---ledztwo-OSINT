@@ -22,6 +22,11 @@ Portal thepeoplesvoice.tv (wcześniej znany jako Your News Wire) jest identyfiko
 | **Kluczowe ustalenia** | Całkowita anonimizacja danych, ślad w Arizonie (USA), domena aktywna od 2013 r. |
 
 
+#### 🖼 Dowód wizualny: Wynik zapytania WHOIS
+```bash
+# Komenda wywołana w terminalu:
+whois thepeoplesvoice.tv
+
 <img width="1064" height="184" alt="{89ED91DE-8284-4685-A122-8AB490FFDED6}" src="https://github.com/user-attachments/assets/6fcf05ca-2c99-4e8a-ab4c-f7cc7e685d99" />
 <img width="443" height="103" alt="{33D30DCD-EF46-4E19-9478-A2E6CC9A3CDF}" src="https://github.com/user-attachments/assets/b2e3add7-84a1-4bcc-ab56-45ae93ee31ae" />
 <img width="506" height="88" alt="{729AC28B-A413-4358-AB71-47320B1263CC}" src="https://github.com/user-attachments/assets/2ba514de-7928-48c4-b7fc-53fda8f6bee2" />
