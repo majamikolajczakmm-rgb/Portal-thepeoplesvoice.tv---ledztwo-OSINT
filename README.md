@@ -91,6 +91,26 @@ Artykuł stawia diagnozę o AIDS i chorobie Kuru wyłącznie na podstawie analiz
 
 ### Krok 4: Analiza profilu redakcyjnego
 
+**Cel:** Ustalenie tożsamości osób odpowiedzialnych za treści oraz wykazanie ich stałej obecności we wszystkich wcieleniach portalu
+
+| Atrybut | Szczegóły |
+| :--- | :--- |
+| **Data weryfikacji** | 22 kwietnia 2026 |
+| **Badane osoby** | Sean Adl-Tabatabai |
+| **Narzędzia** | Cross-referencing, Evening Standard |
+| **Kluczowe ustalenia** | Identyfikacja głównego redaktora. |
+
+### Dowód wizualny 1: 
+
+<img width="1078" height="268" alt="{1E41DE83-A056-483C-B3D8-3D15FFE15C5C}" src="https://github.com/user-attachments/assets/df5a9ea8-021d-4ad1-8161-8e7dab5ef9ad" />
+
+### Dowód wizualny 2:
+
+<img width="932" height="861" alt="{E2599097-62D5-4D45-B68C-2D691F063DC0}" src="https://github.com/user-attachments/assets/ceec6d74-7543-4857-80f2-487aa2af362c" />
+
+## Refleksja śledcza
+
+Szukając informacji o jego wiarygodności, trafiłam na wywiad w brytyjskim dzienniku Evening Standard. Potwierdza, że Sean jest realną i wpływową postacią, artykuł stawia go w centrum globalnej debaty o "fake newsach". W wywiadzie przedstawiają go jako założyciela `Your News Wire`, portalu zbanowanego w sieci za rozsiewanie dezinformacji.
 
 
 ### Krok 5: Analiza historyczna i demaskowanie mechanizmu rebrandingu
