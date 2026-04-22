@@ -26,12 +26,14 @@ Portal thepeoplesvoice.tv (wcześniej znany jako Your News Wire) jest identyfiko
 ```bash
 # Komenda wywołana w terminalu:
 whois thepeoplesvoice.tv
+```
 
 <img width="1064" height="184" alt="{89ED91DE-8284-4685-A122-8AB490FFDED6}" src="https://github.com/user-attachments/assets/6fcf05ca-2c99-4e8a-ab4c-f7cc7e685d99" />
 <img width="443" height="103" alt="{33D30DCD-EF46-4E19-9478-A2E6CC9A3CDF}" src="https://github.com/user-attachments/assets/b2e3add7-84a1-4bcc-ab56-45ae93ee31ae" />
 <img width="506" height="88" alt="{729AC28B-A413-4358-AB71-47320B1263CC}" src="https://github.com/user-attachments/assets/2ba514de-7928-48c4-b7fc-53fda8f6bee2" />
 
-Kiedy wrzuciłam domenę do WHOIS, pierwszą rzeczą, która przykuła moją uwagę, był jej wiek, strona została zarejestrowana już w 2013 roku. To od razu mówi nam, że nie mamy do czynienia z jakimś nowym, spontanicznym projektem, ale z kimś, kto ma już solidną historię i prawdopodobnie przez lata budował swoją pozycję w sieci bądź po prostu przejął domenę z gotowym stażem. Co ciekawe, mimo że portal kreuje się na niezależne medium, w kwestii własności jest niezwykle tajemniczy – prawie wszystkie dane kontaktowe są ukryte pod etykietą 'REDACTED FOR PRIVACY'. Jedynym konkretnym śladem, który udało mi się wyłapać, jest lokalizacja w USA. Całość jest dodatkowo schowana za Cloudflare, co jest sprytnym ruchem, bo skutecznie maskuje to, gdzie fizycznie znajdują się ich serwery. 
+Pierwszy etap dochodzenia przyniósł kilka nieoczywistych wniosków. Choć portal The People’s Voice zyskał na znaczeniu w ostatnich latach, analiza rekordów wskazuje, że domena została zarejestrowana już w czerwcu 2013 roku. Sugeruje to dwa scenariusze: albo operacja ma znacznie dłuższą historię, niż podają oficjalne źródła, albo właściciele przejęli istniejącą domenę o ugruntowanej pozycji (SEO), by uwiarygodnić swoje działania.
+Uwagę zwraca również skrajny brak transparentności. Prawie każde pole dotyczące właściciela zostało zastąpione frazą REDACTED FOR PRIVACY, w przypadku portalu mieniącego się „źródłem niezależnego dziennikarstwa”, ukrywanie tożsamości redakcji podważa jej autentyczność. Jedynym konkretnym śladem geograficznym jest stan Arizona (USA), co stanowi punkt wyjścia do dalszej analizy powiązań z amerykańskimi sieciami dezinformacyjnymi. Całość infrastruktury jest chroniona przez Cloudflare, co skutecznie maskuje realne IP serwera i uniemożliwia prostą lokalizację hostingu.
 
 ### 2. Builtwith
 
