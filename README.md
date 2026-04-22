@@ -43,8 +43,8 @@ Uwagę zwraca również skrajny brak transparentności. Prawie każde pole dotyc
 | Atrybut | Szczegóły |
 | :--- | :--- |
 | **Data weryfikacji** | 20 kwietnia 2026 |
-| **Badane źródło** | thepeoplesvoice.tv, yournewswire.com |
-| **Narzędzia** | BuiltWith (Relationship Profile) |
+| **Badane źródło** | thepeoplesvoice.tv |
+| **Narzędzia** | BuiltWith (Relationship) |
 | **Kluczowe ustalenia** | Identyczne kody Google AdSense oraz Analytics łączące badany portal z zablokowanymi domenami. |
 
 
@@ -54,18 +54,44 @@ Uwagę zwraca również skrajny brak transparentności. Prawie każde pole dotyc
 <img width="1038" height="746" alt="image" src="https://github.com/user-attachments/assets/20e9585c-b541-4294-b337-00c8ea0c96fe" />
 <img width="992" height="750" alt="image" src="https://github.com/user-attachments/assets/e7e61c34-7b3f-48fb-a21d-ef6a07fff234" />
 
-<img width="731" height="588" alt="image" src="https://github.com/user-attachments/assets/10c3d1c7-0dca-415c-9421-725f87a6b5a7" />
-<img width="1064" height="733" alt="image" src="https://github.com/user-attachments/assets/339df71d-a1f7-415f-b344-20901075e6e6" />
 
 ### Refleksja śledcza
-Dzięki analizie narzędziem BuiltWith udało się odnaleźć współdzielone atrybuty. Portal *The People's Voice* korzysta z identycznego identyfikatora **Google AdSense (CA-PUB-3980300725513096)** co szereg innych witryn, w tym m.in. `detroitdailynews.com` czy `tipsto.live`. 
 
-Co więcej, odnaleziony kod **Google Analytics (UA-53594309)** jest bezpośrednio powiązany z portalem `yournewswire.com` – pierwotną wersją serwisu, która została zablokowana w mediach społecznościowych za masowe szerzenie dezinformacji. Fakt, że te same kody śledzące są aktywne jeszcze w marcu 2025 roku, dowodzi ciągłości operacyjnej. Właściciele nie zamknęli działalności, a jedynie dokonali rebrandingu, aby omijać algorytmy weryfikujące prawdę. To klasyczny model "farmy newsów", gdzie jeden podmiot zarządza siecią stron udających lokalne media.
-
-
+Analiza profilu relacji w narzędziu BuiltWith ujawniła cyfrowy ślad, identyfikator **Google AdSense (CA-PUB-3980300725513096)**. 
+Fakt, że ten sam identyfikator płatności jest przypisany do `The People's Voice`, jak i do portali takich jak `detroitdailynews.com` czy `tipsto.live`, rzuca nowe światło na charakter witryny. Mamy tu do czynienia z modelem **"Pink Slime Journalism"**, czyli zjawiskiem tworzenia dziesiątek stron udających lokalne serwisy informacyjne, które w rzeczywistości są zarządzane centralnie w celu masowego zarabiania na reklamach i manipulowania zasięgami. 
 
 
-### 3. Wayback Machine
+### Krok 3: Analiza historyczna i demaskowanie mechanizmu rebrandingu
+
+**Cel:** Udokumentowanie ewolucji portalu oraz wykazanie bezpośredniej ciągłości między thepeoplesvoice.tv a podmiotami wcześniej zbanowanymi za szerzenie dezinformacji.
+
+| Atrybut | Szczegóły |
+| :--- | :--- |
+| **Data weryfikacji** | 21 kwietnia 2026 |
+| **Badane źródła** | yournewswire.com, newspunch.com, thepeoplesvoice.tv |
+| **Narzędzia** | Wayback Machine |
+| **Kluczowe ustalenia** | Potwierdzenie ciągłości autorskiej i prawnej; znalezienie śladów nazwy "The People's Voice" już w 2017 roku pod innym szyldem. |
+
+[Ewolucja 2017-2024]
+<img width="1875" height="861" alt="image" src="https://github.com/user-attachments/assets/342ec694-43a1-4785-b7e1-417077ce1ae3" />
+<img width="1380" height="675" alt="image" src="https://github.com/user-attachments/assets/c014ff29-0e99-4226-a355-8d9f74074855" />
+<img width="1895" height="868" alt="image" src="https://github.com/user-attachments/assets/5850d713-315e-48c4-a2b1-bcaf777785f5" />
+<img width="1885" height="862" alt="image" src="https://github.com/user-attachments/assets/b6d355c6-966e-4350-a5dc-de20537fc617" />
+
+[Stopka 2017]
+<img width="1318" height="347" alt="image" src="https://github.com/user-attachments/assets/8fdf52f4-2ce8-4c56-9a00-ea84ba10ab6a" />
+
+
+### Refleksja śledcza
+Analiza archiwalnych wersji witryny przy użyciu Wayback Machine pozwoliła na ostateczne powiązanie badanego portalu z jego przeszłością. Najważniejszym odkryciem w tej fazie jest stopka strony `yournewswire.com` z **marca 2017 roku**. Widnieje w niej zapis: **"Copyright © 2017 The People’s Voice, Inc."**. Dowodzi to, że obecna nazwa portalu nie jest nowym bytem, lecz nazwą spółki matki, która zarządzała operacją już 7 lat temu.
+
+Gdy portal *Your News Wire* stał się zbyt rozpoznawalny dla organizacji fact-checkingowych i zaczął tracić zasięgi przez bany na Facebooku, właściciele (Sean Adl-Tabatabai i Baxter Dmitry) dokonali "ucieczki domenowej". Najpierw przenieśli treści na `newspunch.com` (co widać na screenach z 2020 r.), a ostatecznie na `thepeoplesvoice.tv`.
+
+Mimo zmiany logotypów i domen, "DNA" portalu pozostaje identyczne:
+**1. Ciągłość personalna:** Te same nazwiska redaktorów od 2017 roku.
+**2. Ciągłość wizualna:** Agresywny styl nagłówków, charakterystyczne czcionki i recykling tych samych teorii spiskowych.
+**3. Ciągłość prawna:** Ta sama firma (The People's Voice, Inc.) widniejąca w dokumentach od lat.
+
 
 
 
